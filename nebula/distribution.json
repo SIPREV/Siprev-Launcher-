@@ -1106,7 +1106,7 @@
           }
         },
         {
-          "id": "elocindev.create_questing:create_questing:1.0.0@jar",
+          "id": "elocindev.create_questing:create_questing:1.0.1@jar",
           "name": "Create Questing",
           "type": "FabricMod",
           "artifact": {
