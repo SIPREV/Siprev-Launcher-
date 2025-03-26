@@ -1116,16 +1116,6 @@
           }
         },
         {
-          "id": "elocindev.create_questing:create_questing:1.0.0@jar",
-          "name": "Create Questing",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 583483,
-            "url": "https://siprev.github.io/Siprev-Launcher-/nebula/servers/S%C5%82odziakiFallenav1-1.20.1/fabricmods/required/Create_Questing-FABRIC-1.20.1-1.0.0.jar",
-            "MD5": "5d03cf2f740b10a1f52e28cdc62d64bc"
-          }
-        },
-        {
           "id": "create_ultimate_factory:create_ultimate_factory:1.9.0@jar",
           "name": "Create: Ultimate Factory",
           "type": "FabricMod",
