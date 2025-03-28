@@ -16,11 +16,11 @@
       "address": "146.19.48.183:25649",
       "minecraftVersion": "1.20.1",
       "discord": {
-        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+        "shortId": "",
+        "largeImageText": "",
+        "largeImageKey": ""
       },
-      "mainServer": true,
+      "mainServer": false,
       "autoconnect": false,
       "modules": [
         {
@@ -1106,23 +1106,13 @@
           }
         },
         {
-          "id": "elocindev.create_questing:create_questing:1.0.0@jar",
+          "id": "elocindev.create_questing:create_questing:1.0.1@jar",
           "name": "Create Questing",
           "type": "FabricMod",
           "artifact": {
             "size": 583556,
             "url": "https://siprev.github.io/Siprev-Launcher-/nebula/servers/S%C5%82odziakiFallenav1-1.20.1/fabricmods/required/Create_Questing-FABRIC-1.0.1.jar",
             "MD5": "89106e2dcdafea64405ed3c68ce69ab7"
-          }
-        },
-        {
-          "id": "elocindev.create_questing:create_questing:1.0.0@jar",
-          "name": "Create Questing",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 583483,
-            "url": "https://siprev.github.io/Siprev-Launcher-/nebula/servers/S%C5%82odziakiFallenav1-1.20.1/fabricmods/required/Create_Questing-FABRIC-1.20.1-1.0.0.jar",
-            "MD5": "5d03cf2f740b10a1f52e28cdc62d64bc"
           }
         },
         {
