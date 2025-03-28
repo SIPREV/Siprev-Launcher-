@@ -30,7 +30,7 @@
           "artifact": {
             "size": 1387408,
             "MD5": "239d59118dec4324672b3d9e9d75efef",
-            "url": "https://fabricmc.forgecdn.net/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
+            "url": "https://siprev.github.io/Siprev-Launcher-/nebula/repo/lib/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
           },
           "subModules": [
             {
