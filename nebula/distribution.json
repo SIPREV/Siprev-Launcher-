@@ -24,23 +24,23 @@
       "autoconnect": false,
       "modules": [
         {
-          "id": "net.fabricmc:fabric-loader:0.16.10",
-          "name": "Fabric (fabric-loader)",
+          "id": "fabric-loader-0.16.10-1.20.1",
+          "name": "fabric-0.16.10-1.20.1",
           "type": "Fabric",
           "artifact": {
             "size": 1387408,
             "MD5": "239d59118dec4324672b3d9e9d75efef",
-            "url": "https://siprev.github.io/Siprev-Launcher-/nebula/repo/lib/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
+            "url": "https://fabricmc.forgecdn.net/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
           },
           "subModules": [
             {
-              "id": "1.20.1-fabric-0.16.10",
+              "id": "fabric-1.20.1-0.16.10",
               "name": "Fabric (version.json)",
               "type": "VersionManifest",
               "artifact": {
                 "size": 2858,
                 "MD5": "32c42a5c14d4d9793c1f3c270eff140f",
-                "url": "https://siprev.github.io/Siprev-Launcher-/nebula/repo/versions/1.20.1-fabric-0.16.10/1.20.1-fabric-0.16.10.json"
+                "url": "https://siprev.github.io/Siprev-Launcher-/nebula/repo/versions/1.20.1-fabric-0.16.10/fabric-1.20.1-0.16.10.json"
               }
             },
             {
