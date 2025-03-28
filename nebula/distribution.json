@@ -11,9 +11,9 @@
       "id": "SłodziakiFallena-1.20.1",
       "name": "SłodziakiFallena (Minecraft 1.20.1)",
       "description": "SłodziakiFallena Running Minecraft 1.20.1 (Fabric v0.16.10)",
-      "icon": null,
+      "icon": "https://cdn.discordapp.com/attachments/982613326666297434/1352414260147519559/ff.png.gif?ex=67e727ee&is=67e5d66e&hm=d19e5170eef189dfbda403044e0ab155f418dfd20bc8d252963eb04dd20afca2&",
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "146.19.48.183:25649",
       "minecraftVersion": "1.20.1",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
